@@ -1,0 +1,14 @@
+bs4
+ipywidgets
+jupyterlab
+jupyter-dash
+lxml
+networkx
+notebook
+numpy
+pandas
+pandas-profiling
+plotly
+requests
+tqdm
+widgetsnbextension
